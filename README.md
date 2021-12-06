@@ -5,24 +5,50 @@
 <a href="https://twitter.com/afdhalluthfi">
   <img align="left" alt="afdhalluthfi | Facbook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/mokkapps/">
+<a href="https://www.instagram.com/otizen09/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
 <br />
-- 👋 Hi, I’m @afdhalluthfi
-- 👀 I’m interested in programming
-- 🔗 welcome in my website liniencode.com ...
-- 💞️ I’m looking to collaborate on ....
+<hr />
+<table>
+<tr>
+<td>
+<ul>
+        <li> 👋 Hi, I’m @afdhalluthfi</li>
+        <li> 👀 I’m interested in programming</li>
+        <li> 🔗 welcome in my website liniencode.com</li>
+        <li> 💞️ I’m looking to collaborate on</li>
+    </ul>
+</td>
+<td>
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" />
+</td>
+</tr>
+</table>
 <br />
-📊 &nbsp;**This week I spent my time on**
+<hr />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afdhalluthfi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdhalluthfi&include_all_commits=true&show_icons=true&count_private=true&contribs=true&hide=stars,prs,)](https://github.com/afdhalluthfi/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdhalluthfi&layout=compact&exclude_repo=laravellogin,dart_basic)](https://github.com/afdhalluthfi/afdhalluthfi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=dart_basic)](https://github.com/afdhalluthfi/dart_basic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=laravellogin)](https://github.com/afdhalluthfi/laravellogin)
-<details>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=laravellogin&theme=shades-of-purple)](https://github.com/afdhalluthfi/laravellogin)
+<table>
+<tr>
+<td><a href="https://github.com/afdhalluthfi/laravellogin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=laravellogin" />
+</a></td>
+<td><a href="https://github.com/afdhalluthfi/laravellogin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afdhalluthfi&layout=compact&exclude_repo=laravellogin,dart_basic" />
+</a></td>
+</tr>
+</table>
+
+
+
+
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> 
@@ -69,7 +95,7 @@
     </a> 
 
 </p>
-</details>
+
 <h2 align="left">Coding Activity</h2>
 
 > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
